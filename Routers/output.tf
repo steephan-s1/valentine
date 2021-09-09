@@ -1,0 +1,2 @@
+variable gateway_id {}
+
